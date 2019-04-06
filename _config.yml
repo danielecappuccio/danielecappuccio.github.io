@@ -14,7 +14,7 @@ picture: assets/images/pic.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/open?id=16LnGEQUOXtWnhbu8i0NEd8aLKMiSYprX
 
 url: https://danielecappuccio.net
 # your url: http://USERNAME.github.io
